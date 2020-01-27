@@ -4,3 +4,8 @@ plugin:
     author: 'Erik van Gemert'
     icon: oc-icon-birthday-cake
     homepage: ''
+navigation:
+    main-menu-item:
+        label: Order
+        url: /
+        icon: icon-birthday-cake

@@ -51,4 +51,7 @@
   'RainLab\\Builder\\Classes\\DatabaseTableSchemaCreator' => 'plugins\\rainlab\\builder\\classes\\DatabaseTableSchemaCreator.php',
   'RainLab\\Builder\\Classes\\TableMigrationCodeGenerator' => 'plugins\\rainlab\\builder\\classes\\TableMigrationCodeGenerator.php',
   'RainLab\\Builder\\Classes\\MigrationModel' => 'plugins\\rainlab\\builder\\classes\\MigrationModel.php',
+  'RainLab\\Builder\\Classes\\MenusModel' => 'plugins\\rainlab\\builder\\classes\\MenusModel.php',
+  'RainLab\\Builder\\FormWidgets\\MenuEditor' => 'plugins\\rainlab\\builder\\formwidgets\\MenuEditor.php',
+  'RainLab\\Builder\\Classes\\PhpSourceStream' => 'plugins\\rainlab\\builder\\classes\\PhpSourceStream.php',
 );
