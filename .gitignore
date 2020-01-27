@@ -3,4 +3,6 @@
 */vendor/
 */install_files/
 */bower_components/
+*/storage/
+*/storage/cms/
 */storage/cms/cache/
