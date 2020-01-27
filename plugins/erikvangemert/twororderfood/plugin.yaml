@@ -1,0 +1,6 @@
+plugin:
+    name: 'erikvangemert.twororderfood::lang.plugin.name'
+    description: 'erikvangemert.twororderfood::lang.plugin.description'
+    author: 'Erik van Gemert'
+    icon: oc-icon-birthday-cake
+    homepage: ''
